@@ -1,6 +1,6 @@
-# flutter_shoping_cart_provider
+## Shopping Cart Flutter
 
-A new Flutter shopping cart project..
+A new Flutter shopping cart project.
 
 # Home Screen
 ![Home_Screen](assets/images/home_screen.png)
