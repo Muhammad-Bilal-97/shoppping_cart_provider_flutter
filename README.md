@@ -3,24 +3,17 @@
 A new Flutter shopping cart project.
 
 ## Home Screen
-![Home_Screen]<p align="center">
-  <img src="assets/images/home_screen.png" width="350" height="1000">
-</p>
+<img src="assets/images/home_screen.png" width="350" height="1000">
 
 ## Cart Screen
-![Cart_Screen]<p align="center">
-  <img src="assets/images/cart_screen.png" width="350" height="1000">
-</p>
+<img src="assets/images/cart_screen.png" width="350" height="1000">
 
 ## Adding / Removing products from cart
-![Cart_Add_Remove]<p align="center">
-  <img src="assets/images/cart_add_remove.png" width="350" height="1000">
-</p>
+<img src="assets/images/cart_add_remove.png" width="350" height="1000">
+
 
 ## When cart is empty
-![Empty_Cart]<p align="center">
-  <img src="assets/images/empty_cart.png" width="350" height="1000">
-</p>
+<img src="assets/images/empty_cart.png" width="350" height="1000">
 
 
 - This is a simple flutter project with two screen. One is the product list screen and the other is cart screen.
