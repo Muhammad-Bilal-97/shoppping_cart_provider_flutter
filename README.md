@@ -1,17 +1,17 @@
-## Shopping Cart Flutter
+# Shopping Cart Flutter
 
 A new Flutter shopping cart project.
 
-# Home Screen
+## Home Screen
 ![Home_Screen](assets/images/home_screen.png)
 
-# Cart Screen
+## Cart Screen
 ![Cart_Screen](assets/images/cart_screen.png)
 
-# Adding / Removing products from cart
+## Adding / Removing products from cart
 ![Cart_Add_Remove](assets/images/cart_add_remove.png)
 
-# When cart is empty
+## When cart is empty
 ![Empty_Cart](assets/images/empty_cart.png)
 
 
