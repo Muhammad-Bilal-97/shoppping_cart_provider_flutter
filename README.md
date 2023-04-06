@@ -1,6 +1,11 @@
 # flutter_shoping_cart_provider
 
 A new Flutter project.
+![Home_Screen](assets/images/home_screen.png)
+![Cart_Screen](assets/images/cart_screen.png)
+![Cart_Add_Remove](assets/images/cart_add_remove.png)
+![Empty_Cart](assets/images/empty_cart.png)
+
 
 ## Getting Started
 
